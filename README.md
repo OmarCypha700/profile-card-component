@@ -14,8 +14,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Solution]()
-- Live Site URL: [Live site]()
+- Solution URL: [Solution](https://github.com/OmarCypha700/profile-card-component)
+- Live Site URL: [Live site](https://profilecardcypha.netlify.app)
 
 ### Built with
 
